@@ -1,0 +1,30 @@
+{
+  "identifier": "com.samuel.foundations-playgrounds",
+  "type": "swift-playgrounds-feed",
+  "version": 1,
+  "title": "Foundations",
+  "revision": 1,
+  "language": "pt-BR",
+  "developer": "Samuel",
+  "developerIdentifier": "com.samuel",
+  "banner": {
+    "url": "https://raw.githubusercontent.com/samuelbrasileiro/foundations-playground/main/foundations.jpeg",
+    "accessibilityText": "Imagem da turma Foundations"
+  },
+  "playgrounds": [
+    {
+      "url": "https://raw.githubusercontent.com/samuelbrasileiro/treasure-hunt/main/Ca%C3%A7a%20ao%20Tesouro.zip",
+      "identifier": "com.samuel.treasure-hunt",
+      "name": "Caça ao Tesouro",
+      "description": "Resolva quatro enigmas intrigantes e descubra programação enquanto busca pelo tesouro escondido.",
+      "revision": 1
+    },
+    {
+      "url": "https://raw.githubusercontent.com/samuelbrasileiro/AprendendoSwiftUI/main/Aprendendo%20SwiftUI.zip",
+      "identifier": "com.samuel.aprendendo-swiftui",
+      "name": "Aprendendo SwiftUI",
+      "description": "Um guia completo para aprender SwiftUI, incluindo exemplos práticos e desafios interativos.",
+      "revision": 1
+    }
+  ]
+}
